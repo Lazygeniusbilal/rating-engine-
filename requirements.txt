@@ -1,0 +1,15 @@
+# dependencies
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+xgboost
+catboost
+lightgbm
+pydantic
+supabase
+fastapi
+pydantic_settings
+pydantic_core
+ensure
