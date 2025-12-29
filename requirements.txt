@@ -13,3 +13,4 @@ fastapi
 pydantic_settings
 pydantic_core
 ensure
+uvicorn
