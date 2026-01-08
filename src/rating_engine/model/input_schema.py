@@ -15,14 +15,12 @@ class PremiumPredict(BaseModel):
     gearbox_type: str                
     engine_cc: int                   
     abi_group: int                   
-    car_value: float                   
-    car_value_to_income_proxy: float   
+    car_value: float                     
     cover_type: str                  
     use_type: str                    
     annual_mileage: int              
     overnight_parking: str           
     voluntary_excess: int            
     payment_method: str              
-    urban_flag: int                  
-    monthly_pay_flag: int            
+    urban_flag: int                             
         
