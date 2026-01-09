@@ -22,5 +22,5 @@ class PremiumPredict(BaseModel):
     overnight_parking: str           
     voluntary_excess: int            
     payment_method: str              
-    urban_flag: int                             
+    urban_flag: str                            
         
