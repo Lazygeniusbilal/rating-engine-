@@ -13,8 +13,8 @@ class Settings(BaseSettings):
 settings= Settings()
 
 # Categorical columns for model prediction
-CATEGORICAL_COLUMNS = [
-    "gender", "martial_status", "occupation", "employment_status",
-    "income_band", "vehicle_make", "vehicle_body_type", "fuel_type",
-    "gearbox_type", "cover_type", "use_type", "overnight_parking", "payment_method", "urban_flag"
-]
+# CATEGORICAL_COLUMNS = [
+#     "gender", "martial_status", "occupation", "employment_status",
+#     "income_band", "vehicle_make", "vehicle_body_type", "fuel_type",
+#     "gearbox_type", "cover_type", "use_type", "overnight_parking", "payment_method", "urban_flag"
+# ]
